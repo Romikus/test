@@ -14,9 +14,9 @@
   4. Регистрация на [GitHub](https://github.com)
   5. Добавить публичный SSH ключ (.pub) в настройках профиля на GitHub
   6. Выбрать и установить один из GUI для Git:
-    6.1. [SourceTree:](https://www.sourcetreeapp.com) - предпочтительнее! в процессе потребуется регистрация на [atlassian.com](https://www.atlassian.com)
-    6.2. [GitHub Desktop](https://desktop.github.com)
-    6.3. и другие
+  6.1. [SourceTree:](https://www.sourcetreeapp.com) - предпочтительнее! в процессе потребуется регистрация на [atlassian.com](https://www.atlassian.com)
+  6.2. [GitHub Desktop](https://desktop.github.com)
+  6.3. и другие
 
 ## Проверка работоспособности
 
