@@ -17,6 +17,10 @@
     - [SourceTree:](https://www.sourcetreeapp.com) - предпочтительнее! в процессе потребуется регистрация на [atlassian.com](https://www.atlassian.com)
     - [GitHub Desktop](https://desktop.github.com)
     - и другие
+  7. Выбрать и установить графическую утилиту для резрешения конфликтов. Обзор утилит:
+    - [Источник 1 (en)](https://developer.atlassian.com/blog/2015/12/tips-tools-to-solve-git-conflicts/)
+    - [Источник 2 (en)](https://www.slant.co/topics/1324/~diff-tools-for-git)
+    - [Источник 3 (ru)](https://habrahabr.ru/post/150001/)
 
 ## Проверка работоспособности
 
